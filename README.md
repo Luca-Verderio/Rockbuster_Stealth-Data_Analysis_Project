@@ -15,4 +15,5 @@ The original data set is available [here](https://www.postgresqltutorial.com/wp-
 ## Tools
 Programming language: **SQL (Structured Query Language)**  
 RDBMS: **PostgreSQL**  
-PostgreSQL management tool: **pgAdmin**  
+PostgreSQL management: **pgAdmin**  
+Data visualization: **Tableau**, **Excel**
