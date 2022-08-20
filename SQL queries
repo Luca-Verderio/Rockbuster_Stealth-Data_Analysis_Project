@@ -1,5 +1,6 @@
 # Descriptive statistics
 ## Film table: MIN, MAX and AVERAGE
+
 ```
 SELECT	
 	MIN(film_id) AS min_film_id,
